@@ -1,0 +1,89 @@
+#asquare {
+ width: 50px; 
+ height: 50px; 
+ }
+
+ #clearsquare {
+ width: 40px; 
+ height: 40px; 
+ background: blue; }
+
+ #spacesquare {
+ width: 40px; 
+ height: 40px; 
+ background: red;
+ }
+
+ .r1key{
+ 	float:left;
+ 	width: 50px;
+ 	height: 50px;
+ }
+  .r2key{
+ 	float:left;
+ 	width: 50px;
+ 	height: 50px;
+ }
+ #row2 {
+ 	clear:both;
+ }
+ .r3key{
+ 	float:left;
+ 	width: 50px;
+ 	height: 50px;}
+
+ #row3 {
+ 	clear:both;
+ }
+  .r4key{
+ 	float:left;
+ 	width: 50px;
+ 	height: 50px;}
+
+ #row4 {
+ 	clear:both;
+ }
+
+ .r5key{
+ 	float:left;
+ 	width: 50px;
+ 	height: 50px;}
+
+ #row5 {
+ 	clear:both;
+ }
+
+ #clearkey{
+ 	margin-right: 11px;
+ }
+#morse{
+	float:right;
+	width: 33%;
+	clear:both;
+}
+
+#keyboard{
+	float: left;
+}
+#morsetext{
+	max-width: 350px;
+	word-wrap: break-word;
+	margin-top: -20%;
+}
+#words {
+clear: both;
+margin-top: 119px;
+float: left;
+width: 100%;
+}
+#englishtext{
+	max-width: 350px;
+	word-wrap: break-word;
+}
+.hidden{
+	display:none;
+}
+#english{
+	max-width: 50%;
+}
+
